@@ -9,4 +9,4 @@ pinned: false
 ---
 
 # Dog_Breed_Prediction
-demo of 🤗 spaces deployment of a streamlit python app
+Dog Breed Prediction 🤗 spaces deployment of a streamlit python app
