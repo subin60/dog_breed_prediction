@@ -8,5 +8,5 @@ app_file: main_app.py
 pinned: false
 ---
 
-# image2textapp
+# Dog_Breed_Prediction
 demo of 🤗 spaces deployment of a streamlit python app
