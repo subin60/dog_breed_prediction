@@ -1,10 +1,10 @@
 ---
-title: Image To Text App
+title: Dog Breed Prediction
 emoji: 📹
 colorFrom: blue
 colorTo: red
 sdk: streamlit
-app_file: app.py
+app_file: main_app.py
 pinned: false
 ---
 
