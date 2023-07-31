@@ -1,6 +1,6 @@
 ---
 title: Dog Breed Prediction
-emoji: 📹
+emoji: 🐕
 colorFrom: blue
 colorTo: red
 sdk: streamlit
